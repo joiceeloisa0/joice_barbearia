@@ -1,0 +1,41 @@
+h1{
+  color: pink; /*cor*/
+  text-align: center;/*alinhamento do texto*/
+  background-color: black;/*cor de fundo*/
+  font-family: monospace;/*familia de fontes*/
+}
+p{
+  text-align: justify;/*alinhamento do texto*/
+}
+strong{ /*fontes*/
+  color:purple; /*cores*/
+}
+/*ul{
+  position: center; posição
+}
+
+
+ ul{
+   position:relative;posição
+  top:10px principal
+}*/
+
+ul{
+  position:absolute; /*posição*/
+  top:0px; /*principal*/
+} 
+
+nav{
+  position:absolute; /*posição*/
+  top: 0; /*principal*/
+  right: 0; /*direita*/
+}
+.caixa{ 
+ witdh: 940px;/*largura*/
+  position:relative; /*poição*/
+  margin: 0 auto; /*margem*/
+}
+header{
+  padding: 20px;/*padding espaçamento interno do elemento*/
+}
+   
